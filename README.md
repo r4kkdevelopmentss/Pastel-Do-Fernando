@@ -1,6 +1,6 @@
 # Pastel-Do-Fernando
 
-<img src="img_girl.jpg" alt="Logotipo" width="500" height="600">
+<img src="http://www.pasteldofernando.com.br/wp-content/uploads/2021/05/logo-pasteldofernando150x150.png" alt="Logotipo" width="500" height="600">
 
 A melhor massa de pastel para Londrina e Região
 Massa de pastel em rolo, cortadas tamanho padrão e cortadas em tamanho especial para pastelarias.
